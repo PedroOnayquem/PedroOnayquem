@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Pedro Onayquen
+# 👋 Olá, eu sou o Pedro Onayquem
 
 💻 Desenvolvedor em formação com foco em **Java e Spring Boot**  
 🚀 Buscando evolução constante em **backend**, APIs REST e boas práticas  
