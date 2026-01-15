@@ -54,7 +54,7 @@ API REST desenvolvida com **Spring Boot**, **JPA**, **MySQL** e **Swagger**, con
 - Boas práticas em APIs REST
 - Segurança com Spring Security (em breve 👀)
 
----
+
 
 ## 📫 Como me encontrar
 
