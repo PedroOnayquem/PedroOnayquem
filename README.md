@@ -1,67 +1,80 @@
-# 👋 Olá, eu sou o Pedro Onayquem
+👋 Olá, eu sou o Pedro Onayquem
 
-💻 Desenvolvedor **Java Backend**, focado em criação de **APIs REST**, boas práticas e arquitetura limpa.  
-🚀 Atualmente estudando e desenvolvendo projetos com **Spring Boot**, **JPA/Hibernate** e **MySQL**.
+💻 Desenvolvedor Full Stack Júnior, com foco em construção de APIs REST, integração entre frontend e backend e boas práticas de arquitetura.
+🚀 Atualmente desenvolvendo projetos com Node.js, TypeScript e possuo base sólida em Java com Spring Boot.
 
----
+🧑‍💻 Sobre mim
 
-## 🧑‍💻 Sobre mim
+🔹 Desenvolvedor Full Stack em início de carreira
+🔹 Experiência com APIs REST (CRUD, validações, tratamento de exceções)
+🔹 Integração entre frontend e backend
+🔹 Conhecimento em bancos de dados relacionais
+🔹 Versionamento com Git e GitHub
+🔹 Sempre buscando evoluir tecnicamente e aprender novas tecnologias
 
- 🔹 Desenvolvedor Backend em Java  
- 🔹 Experiência com APIs REST (CRUD, validações, exceções, documentação)  
- 🔹 Conhecimento em bancos de dados relacionais  
- 🔹 Versionamento com Git e GitHub  
- 🔹 Sempre buscando evoluir como desenvolvedor e aprender novas tecnologias
+🛠️ Tecnologias & Ferramentas
+💻 Backend
 
----
 
-## 🛠️ Tecnologias & Ferramentas
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-### Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Ferramentas
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
----
 
-## 📂 Projetos em Destaque
 
-🔹 **API CRUD de Usuários**  
-API REST desenvolvida com **Spring Boot**, **JPA**, **MySQL** e **Swagger**, contendo:
-- Validações com Bean Validation  
-- Tratamento global de exceções  
-- Documentação automática com Swagger/OpenAPI  
+🌐 Frontend
 
-➡️ Repositório: [CRUD Spring Boot](https://github.com/PedroOnayquen/crud-spring-boot)
 
----
 
-## 📈 O que estou estudando agora
 
-- Arquitetura em camadas (Controller, Service, Repository)
-- Tratamento de exceções profissional
-- Documentação de APIs com Swagger
-- Boas práticas em APIs REST
-- Segurança com Spring Security (em breve 👀)
 
----
 
-## 📫 Como me encontrar
- 
- -🔗 Linkedin: *https://www.linkedin.com/in/pedro-onayquem-01417b379/*
- 
- -📧 Email: *ponayquen@gmail.com*
+🗄️ Banco de Dados
 
----
 
-⭐ Se gostou de algum projeto, não esqueça de deixar uma estrela!
+
+
+⚙️ Ferramentas
+
+
+
+
+
+
+
+
+📂 Projetos em Destaque
+
+🔹 TaskManager – Aplicação Full Stack
+Aplicação de gerenciamento de tarefas com backend em API REST e integração com frontend.
+
+Construção de API REST
+
+Persistência com banco relacional
+
+Organização em camadas
+
+Integração frontend + backend
+
+➡️ Repositório:
+https://github.com/PedroOnayquem/TaskManager
+
+📈 O que estou estudando agora
+
+Arquitetura de aplicações full stack
+
+Boas práticas em APIs REST
+
+Estruturação de projetos profissionais
+
+Segurança em aplicações web
+
+Clean Code e organização de código
+
+📫 Como me encontrar
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/pedro-onayquem-01417b379/
+
+📧 Email:
+ponayquen@gmail.com
