@@ -1,19 +1,21 @@
 👋 Olá, eu sou o Pedro Onayquem
 
-💻 Desenvolvedor Full Stack Júnior, com foco em construção de APIs REST, integração entre frontend e backend e boas práticas de arquitetura.
-🚀 Atualmente desenvolvendo projetos com Node.js, TypeScript e possuo base sólida em Java com Spring Boot.
+💻 Desenvolvedor Full Stack, com foco principal em Java Backend, criação de APIs REST, boas práticas e arquitetura limpa.
+
+🚀 Atualmente desenvolvendo aplicações completas utilizando Spring Boot, JPA/Hibernate, PostgreSQL/MySQL, Node.js, TypeScript e Next.js.
 
 🧑‍💻 Sobre mim
 
-🔹 Desenvolvedor Full Stack em início de carreira
-🔹 Experiência com APIs REST (CRUD, validações, tratamento de exceções)
-🔹 Integração entre frontend e backend
+🔹 Desenvolvedor Full Stack
+🔹 Forte foco em Backend com Java e Spring Boot
+🔹 Experiência com APIs REST (CRUD, validações, exceções, autenticação)
+🔹 Desenvolvimento de aplicações Full Stack (Backend + Frontend)
 🔹 Conhecimento em bancos de dados relacionais
 🔹 Versionamento com Git e GitHub
-🔹 Sempre buscando evoluir tecnicamente e aprender novas tecnologias
+🔹 Sempre buscando evoluir como desenvolvedor e aprender novas tecnologias
 
 🛠️ Tecnologias & Ferramentas
-💻 Backend
+🔙 Backend
 
 
 
@@ -22,7 +24,13 @@
 
 
 
-🌐 Frontend
+
+
+
+
+🎨 Frontend
+
+
 
 
 
@@ -43,33 +51,49 @@
 
 
 
+
+
 📂 Projetos em Destaque
+🔹 API CRUD de Usuários
 
-🔹 TaskManager – Aplicação Full Stack
-Aplicação de gerenciamento de tarefas com backend em API REST e integração com frontend.
+API REST desenvolvida com Spring Boot, JPA, PostgreSQL/MySQL e Swagger, contendo:
 
-Construção de API REST
+Validações com Bean Validation
 
-Persistência com banco relacional
+Tratamento global de exceções
 
-Organização em camadas
+Documentação automática com Swagger/OpenAPI
 
-Integração frontend + backend
+Estrutura em camadas (Controller, Service, Repository)
 
 ➡️ Repositório:
-https://github.com/PedroOnayquem/TaskManager
+https://github.com/PedroOnayquen/crud-spring-boot
+
+🔹 Task Manager (Full Stack)
+
+Aplicação completa com:
+
+Backend em Spring Boot
+
+Autenticação com Spring Security
+
+Banco de dados relacional
+
+Frontend em Next.js + TypeScript
+
+Integração via API REST
 
 📈 O que estou estudando agora
 
-Arquitetura de aplicações full stack
+Arquitetura limpa e boas práticas
 
-Boas práticas em APIs REST
+Segurança com Spring Security (JWT)
 
-Estruturação de projetos profissionais
+Integração Frontend + Backend
 
-Segurança em aplicações web
+Estruturação de projetos Full Stack
 
-Clean Code e organização de código
+Deploy e boas práticas de produção
 
 📫 Como me encontrar
 
@@ -78,3 +102,5 @@ https://www.linkedin.com/in/pedro-onayquem-01417b379/
 
 📧 Email:
 ponayquen@gmail.com
+
+⭐ Se gostou de algum projeto, não esqueça de deixar uma estrela!
